@@ -1,7 +1,11 @@
 # Hi, I'm Jacob Breckenridge 👋
 
-I'm a DevOps engineer pivoting into data-focused roles (Data Analyst / Data Engineer / FinOps).  
-This profile highlights projects that showcase both **workflow discipline** and **data storytelling**.
+DevOps engineer & data enthusiast with a background in **mathematics, machine learning, and creative visualization**.  
+- **BA in Comprehensive Mathematics** – University of Arizona (2008)  
+- **MS in Electrical & Computer Engineering** – University of Arizona (2019)  
+
+I build projects that connect **data workflows, visualization, and cloud engineering** — turning raw data into insights and real products.  
+My portfolio balances workflow-heavy case studies with product-focused dashboards and creative explorations.  
 
 ---
 
@@ -12,6 +16,7 @@ This profile highlights projects that showcase both **workflow discipline** and 
 | **[Customer Churn Prediction](https://github.com/jbrdge/churn-prediction)** | Full data pipeline & workflow | `.github/` templates, issues, milestones, branching history | SQL cleaning → Python modeling → Tableau dashboard |
 | **[LEGO Dataset Dashboard](https://github.com/jbrdge/lego)** | Visualization & product delivery | Lightweight Git, minimal issue/PR workflow | SQL cleaning → PHP web interface → Tableau dashboards |
 | **[AWS Cost Analyzer](https://public.tableau.com/app/profile/jacob.breckenridge3515/viz/AWSCostDashboard-Sample1Month/AWSCostAnalysisAug2025)** | Cloud cost analysis (FinOps) | Python scripts with clean repo structure | Synthetic AWS cost dataset → Power BI/Tableau dashboards |
+| **[Visualizations](https://github.com/jbrdge/Visualizations)** | Generative & artistic analysis | Lightweight repo structure | Processing.org sketches + Python data science for creative visuals |
 
 ---
 
@@ -30,9 +35,17 @@ Unlike the churn repo, this one emphasizes **product delivery (interactive dashb
 ---
 
 ### AWS Cost Analyzer
+
 This project highlights my **FinOps and cloud cost analysis** skills.  
 I generated a synthetic AWS billing dataset (services, accounts, environments, teams) and used Python for preprocessing and cost breakdowns. The results were visualized in Power BI and Tableau dashboards to surface KPIs like MTD spend, service-level costs, and team allocations.  
 The project demonstrates my ability to connect **cloud infrastructure knowledge with data analysis** to support cost optimization — a bridge between my DevOps background and data-focused career path.
+
+---
+
+### Visualizations
+This repo highlights my work in **data and signal visualizations** using both Python and [Processing.org](https://processing.org/).  
+It includes experiments like **K-Nearest Neighbor variations in Python** as well as a wide range of **generative animations in Processing** — from sinusoidal waves, knot curves, and polygon spirals to gravity simulations, graph algorithms, and artistic distortions.  
+The collection blends **data science, algorithmic thinking, and creative coding**, showcasing how technical models can be transformed into engaging visual experiences.
 
 ---
 
