@@ -55,7 +55,7 @@ The collection blends **data science, algorithmic thinking, and creative coding*
 
 ---
 
-[![Click here or image to watch the video]](https://www.youtube.com/watch?v=9LqFKjaYLeE)
+[Click here or image to watch the video](https://www.youtube.com/watch?v=9LqFKjaYLeE)
 [![Watch the video](https://github.com/jbrdge/jbrdge/blob/main/hd.png)](https://www.youtube.com/watch?v=9LqFKjaYLeE)
 
 
