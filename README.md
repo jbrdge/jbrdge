@@ -9,6 +9,12 @@ My portfolio balances workflow-heavy case studies with product-focused dashboard
 
 ---
 
+## 🔗 Connect
+- [LinkedIn](https://www.linkedin.com/in/jacobbreckenridge/) 
+- [Tableau Public](https://public.tableau.com/app/profile/jacob.breckenridge3515/vizzes)  
+
+---
+
 ## Featured Projects
 
 | Project | Focus Area | Workflow Signals | Product Output |
@@ -49,10 +55,7 @@ The collection blends **data science, algorithmic thinking, and creative coding*
 
 ---
 
-[![Watch the video](https://www.youtube.com/watch?v=9LqFKjaYLeE)
+[![Click here or image to watch the video]](https://www.youtube.com/watch?v=9LqFKjaYLeE)
+[![Watch the video](https://github.com/jbrdge/jbrdge/blob/main/hd.png)](https://www.youtube.com/watch?v=9LqFKjaYLeE)
 
----
 
-## 🔗 Connect
-- [LinkedIn](https://www.linkedin.com/in/jacobbreckenridge/) 
-- [Tableau Public](https://public.tableau.com/app/profile/jacob.breckenridge3515/vizzes)  
