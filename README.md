@@ -49,6 +49,10 @@ The collection blends **data science, algorithmic thinking, and creative coding*
 
 ---
 
+[![Watch the video](https://www.youtube.com/watch?v=9LqFKjaYLeE)
+
+---
+
 ## 🔗 Connect
 - [LinkedIn](https://www.linkedin.com/in/jacobbreckenridge/) 
 - [Tableau Public](https://public.tableau.com/app/profile/jacob.breckenridge3515/vizzes)  
