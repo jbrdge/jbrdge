@@ -4,8 +4,7 @@ DevOps engineer & data enthusiast with a background in **mathematics, machine le
 - **BA in Comprehensive Mathematics** – University of Arizona (2008)  
 - **MS in Electrical & Computer Engineering** – University of Arizona (2019)  
 
-I build projects that connect **data workflows, visualization, and cloud engineering** — turning raw data into insights and real products.  
-My portfolio balances workflow-heavy case studies with product-focused dashboards and creative explorations.  
+I build projects that connect **data workflows, visualization, and cloud infrastructure**. Recently, I’ve focused on automation that makes systems easier to manage, more reliable, and harder to break.
 
 ---
 
