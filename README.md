@@ -18,15 +18,9 @@ I build projects that connect **data workflows, visualization, and cloud infrast
 
 | Project | Focus Area | Workflow Signals | Product Output |
 |---------|------------|------------------|----------------|
-| **[Customer Churn Prediction](https://github.com/jbrdge/churn-prediction)** | Full data pipeline & workflow | `.github/` templates, issues, milestones, branching history | SQL cleaning → Python modeling → Tableau dashboard |
 | **[LEGO Dataset Dashboard](https://github.com/jbrdge/lego)** | Visualization & product delivery | Lightweight Git, minimal issue/PR workflow | PHP web interface → Tableau dashboards |
 | **[AWS Cost Analyzer](https://public.tableau.com/app/profile/jacob.breckenridge3515/viz/AWSCostDashboard-Sample1Month/AWSCostAnalysisAug2025)** | Cloud cost analysis (FinOps) | Python scripts with clean repo structure | Synthetic AWS cost dataset → Power BI/Tableau dashboards |
 | **[Visualizations](https://github.com/jbrdge/Visualizations)** | Generative & artistic analysis | Lightweight repo structure | Processing.org sketches + Python data science for creative visuals |
-
----
-
-### Customer Churn Prediction
-This is a learning project, I used AI assisted templates for code to review MLOps Concepts. I performed the planning of the project as if I were a project manager creating milestones, issues, PRs, actions, labels, code reviews, etc. It is an ongoing and I plan to expand it as I learn. It is a churn prediction pipeline starting with SQL cleaning scripts, moving into Python feature engineering and modeling, and finishing with a Tableau dashboard for results visualization. The repo is structured like a real-world product build — with `.github/` templates, issues, milestones, and branching history — to highlight not just the analysis but also the **Git workflow and project management practices** behind it.
 
 ---
 
