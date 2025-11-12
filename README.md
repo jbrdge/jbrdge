@@ -19,7 +19,7 @@ I build projects that connect **data workflows, visualization, and cloud infrast
 | Project | Focus Area | Workflow Signals | Product Output |
 |---------|------------|------------------|----------------|
 | **[Customer Churn Prediction](https://github.com/jbrdge/churn-prediction)** | Full data pipeline & workflow | `.github/` templates, issues, milestones, branching history | SQL cleaning → Python modeling → Tableau dashboard |
-| **[LEGO Dataset Dashboard](https://github.com/jbrdge/lego)** | Visualization & product delivery | Lightweight Git, minimal issue/PR workflow | SQL cleaning → PHP web interface → Tableau dashboards |
+| **[LEGO Dataset Dashboard](https://github.com/jbrdge/lego)** | Visualization & product delivery | Lightweight Git, minimal issue/PR workflow | PHP web interface → Tableau dashboards |
 | **[AWS Cost Analyzer](https://public.tableau.com/app/profile/jacob.breckenridge3515/viz/AWSCostDashboard-Sample1Month/AWSCostAnalysisAug2025)** | Cloud cost analysis (FinOps) | Python scripts with clean repo structure | Synthetic AWS cost dataset → Power BI/Tableau dashboards |
 | **[Visualizations](https://github.com/jbrdge/Visualizations)** | Generative & artistic analysis | Lightweight repo structure | Processing.org sketches + Python data science for creative visuals |
 
@@ -32,7 +32,7 @@ This is a learning project, I used AI assisted templates for code to review MLOp
 
 ### LEGO Dataset Dashboard
 This project focuses on **data storytelling and visualization**.  
-Using the Kaggle LEGO dataset, I designed Tableau dashboards to explore theme popularity, set complexity, and color usage across LEGO history. A lightweight SQL + PHP web interface supports the data, and the project could be containerized with Docker for portability.  
+Using the Kaggle LEGO dataset, I designed Tableau dashboards to explore theme popularity, set complexity, and color usage across LEGO history. A lightweight PHP web interface supports the data, and the project could be containerized with Docker for portability.  
 Unlike the churn repo, this one emphasizes **product delivery (interactive dashboards)** rather than a workflow-heavy pipeline — providing a complementary showcase of my skills.
 
 ---
@@ -40,7 +40,7 @@ Unlike the churn repo, this one emphasizes **product delivery (interactive dashb
 ### AWS Cost Analyzer
 
 This project highlights my **FinOps and cloud cost analysis** skills.  
-I generated a synthetic AWS billing dataset (services, accounts, environments, teams) and used Python for preprocessing and cost breakdowns. The results were visualized in Power BI and Tableau dashboards to surface KPIs like MTD spend, service-level costs, and team allocations.  
+I used AI to generate a synthetic AWS billing dataset (services, accounts, environments, teams) and used Python for preprocessing and cost breakdowns. The results were visualized in Tableau dashboards to surface KPIs like MTD spend, service-level costs, and team allocations.  
 The project demonstrates my ability to connect **cloud infrastructure knowledge with data analysis** to support cost optimization — a bridge between my DevOps background and data-focused career path.
 
 ---
