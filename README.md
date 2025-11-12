@@ -26,9 +26,7 @@ I build projects that connect **data workflows, visualization, and cloud infrast
 ---
 
 ### Customer Churn Prediction
-This project demonstrates a **full end-to-end data workflow**.  
-I built a churn prediction pipeline starting with SQL cleaning scripts, moving into Python feature engineering and modeling, and finishing with a Tableau dashboard for results visualization.  
-The repo is structured like a real-world product build — with `.github/` templates, issues, milestones, and branching history — to highlight not just the analysis but also the **Git workflow and project management practices** behind it.
+This is a learning project, I used AI assisted templates for code to review MLOps Concepts. I performed the planning of the project as if I were a project manager creating milestones, issues, PRs, actions, labels, code reviews, etc. It is an ongoing and I plan to expand it as I learn. It is a churn prediction pipeline starting with SQL cleaning scripts, moving into Python feature engineering and modeling, and finishing with a Tableau dashboard for results visualization. The repo is structured like a real-world product build — with `.github/` templates, issues, milestones, and branching history — to highlight not just the analysis but also the **Git workflow and project management practices** behind it.
 
 ---
 
