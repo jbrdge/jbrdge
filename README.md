@@ -64,7 +64,7 @@ This is a learning project, I used AI assisted templates for code to review MLOp
 
 ### LEGO Dataset Dashboard
 
-This project focuses on **data storytelling and visualization**.  
+This project focuses on **Web Development with PHP, CSS, JS**.  
 
 Using the Kaggle LEGO dataset, I designed Tableau dashboards to explore theme popularity, set complexity, and color usage across LEGO history. A lightweight PHP web interface supports the data, and the project could be containerized with Docker for portability.  
 
