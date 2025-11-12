@@ -82,7 +82,7 @@ Unlike the churn repo, this one emphasizes **product delivery (interactive dashb
 
 This project highlights my **FinOps and cloud cost analysis** skills.  
 
-I used AI to generate a synthetic AWS billing dataset (services, accounts, environments, teams) and used Python for preprocessing and cost breakdowns. The results were visualized in Tableau dashboards to surface KPIs like MTD spend, service-level costs, and team allocations.  
+I used AI to generate a synthetic AWS billing dataset (services, accounts, environments, teams). The results were visualized in Tableau dashboards to surface KPIs like MTD spend, service-level costs, and team allocations.  
 
 The project demonstrates my ability to connect **cloud infrastructure knowledge with data analysis** to support cost optimization — a bridge between my DevOps background and data-focused career path.
 
