@@ -14,16 +14,6 @@ I build projects that connect **data workflows, visualization, and cloud infrast
 
 ---
 
-## Featured Projects
-
-| Project | Focus Area | Workflow Signals | Product Output |
-|---------|------------|------------------|----------------|
-| **[LEGO Dataset Dashboard](https://github.com/jbrdge/lego)** | Visualization & product delivery | Lightweight Git | PHP web interface → Tableau dashboards |
-| **[AWS Cost Analyzer](https://public.tableau.com/app/profile/jacob.breckenridge3515/viz/AWSCostDashboard-Sample1Month/AWSCostAnalysisAug2025)** | Cloud cost analysis (FinOps) | Python scripts with clean repo structure | Synthetic AWS cost dataset → Power BI/Tableau dashboards |
-| **[Visualizations](https://github.com/jbrdge/Visualizations)** | Generative & artistic analysis | Lightweight repo structure | Processing.org sketches + Python data science for creative visuals |
-
----
-
 ### LEGO Dataset Dashboard
 This project focuses on **data storytelling and visualization**.  
 Using the Kaggle LEGO dataset, I designed Tableau dashboards to explore theme popularity, set complexity, and color usage across LEGO history. A lightweight PHP web interface supports the data, and the project could be containerized with Docker for portability.  
