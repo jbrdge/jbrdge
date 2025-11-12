@@ -38,7 +38,7 @@ I build projects that connect **data workflows, visualization, and cloud infrast
 |---------|------------|------------------|----------------|
 | **[Customer Churn Prediction](https://github.com/jbrdge/churn-prediction)** | Full data pipeline & workflow | `.github/` templates, issues, milestones, branching history | SQL cleaning → Python modeling → Tableau dashboard |
 | **[LEGO Dataset Dashboard](https://github.com/jbrdge/lego)** | Visualization & product delivery | Lightweight Git, minimal issue/PR workflow | PHP web interface → Tableau dashboards |
-| **[AWS Cost Analyzer](https://public.tableau.com/app/profile/jacob.breckenridge3515/viz/AWSCostDashboard-Sample1Month/AWSCostAnalysisAug2025)** | Cloud cost analysis (FinOps) | Python scripts with clean repo structure | Synthetic AWS cost dataset → Power BI/Tableau dashboards |
+| **[AWS Cost Analyzer](https://public.tableau.com/app/profile/jacob.breckenridge3515/viz/AWSCostDashboard-Sample1Month/AWSCostAnalysisAug2025)** | Cloud cost analysis (FinOps) | Python scripts with clean repo structure | Synthetic AWS cost dataset → Tableau dashboards |
 | **[Visualizations](https://github.com/jbrdge/Visualizations)** | Generative & artistic analysis | Lightweight repo structure | Processing.org sketches + Python data science for creative visuals |
 
 
