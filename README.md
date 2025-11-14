@@ -4,15 +4,7 @@
 
 DevOps engineer & data enthusiast with a background in **mathematics, machine learning, and creative visualization**.  
 
-- **BA in Comprehensive Mathematics** – University of Arizona (2008)  
-
-- **MS in Electrical & Computer Engineering** – University of Arizona (2019)  
-
-
-
 I build projects that connect **data workflows, visualization, and cloud infrastructure**. Recently, I’ve focused on automation that makes systems easier to manage, more reliable, and harder to break.
-
-
 
 ---
 
@@ -109,4 +101,12 @@ The collection blends **data science, algorithmic thinking, and creative coding*
 [Click here or image to watch the video](https://www.youtube.com/watch?v=9LqFKjaYLeE)
 
 [![Watch the video](https://github.com/jbrdge/jbrdge/blob/main/hd.png)](https://www.youtube.com/watch?v=9LqFKjaYLeE)
+
+---
+
+### Education
+
+- **BA in Comprehensive Mathematics** – University of Arizona
+
+- **MS in Electrical & Computer Engineering** – University of Arizona 
 
