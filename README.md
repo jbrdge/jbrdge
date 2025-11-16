@@ -95,6 +95,17 @@ The collection blends **data science, algorithmic thinking, and creative coding*
 
 
 ---
+### Courses in progress
+#### From Analystbuilder.com
+https://github.com/jbrdge/MySQL-for-Data-Analytics, fork of https://github.com/AnalystBuilder/MySQL-for-Data-Analytics.
+
+
+---
+### Courses completed
+
+
+
+---
 
 
 
