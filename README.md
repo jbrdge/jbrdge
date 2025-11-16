@@ -11,14 +11,16 @@ I build projects that connect **data workflows, visualization, and cloud infrast
 
 
 ## 🔗 Connect
-- Check out some of my public p5.js scripts and animations
-      [noisy pie chart](https://editor.p5js.org/jbrdge/sketches/IqnZYWGqY)
+### Check out some of my public p5.js scripts and animations  
+      [Noisy Pie Chart](https://editor.p5js.org/jbrdge/sketches/IqnZYWGqY)
   
-- Kaggle Projects [Kaggle](https://www.kaggle.com/jbreckenridge)
+### Kaggle Projects  
+      [Kaggle](https://www.kaggle.com/jbreckenridge)
 
-- [CodePen](https://codepen.io/Jbrdge)
+### HTML/CSS/JS  
+      [CodePen](https://codepen.io/Jbrdge)
 
-- Tableau Pages [Tableau Public](https://public.tableau.com/app/profile/jacob.breckenridge3515/vizzes)  
+### Tableau Pages [Tableau Public](https://public.tableau.com/app/profile/jacob.breckenridge3515/vizzes)  
 
 - [LinkedIn](https://www.linkedin.com/in/jacobbreckenridge/) 
 
