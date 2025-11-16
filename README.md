@@ -12,13 +12,14 @@ I build projects that connect **data workflows, visualization, and cloud infrast
 
 ## 🔗 Connect
 - Check out some of my public p5.js animations on [Processing](https://editor.p5js.org/jbrdge)
-  <iframe src="https://editor.p5js.org/jbrdge/full/zsY-AfIus"></iframe>
   
-- [Kaggle](https://www.kaggle.com/jbreckenridge)
+- Kaggle Projects [Kaggle](https://www.kaggle.com/jbreckenridge)
+
+- Tableau Pages [Tableau Public](https://public.tableau.com/app/profile/jacob.breckenridge3515/vizzes)  
 
 - [LinkedIn](https://www.linkedin.com/in/jacobbreckenridge/) 
 
-- [Tableau Public](https://public.tableau.com/app/profile/jacob.breckenridge3515/vizzes)  
+
 
 
 
