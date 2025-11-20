@@ -39,6 +39,10 @@ I build projects that connect **data workflows, visualization, and cloud infrast
 | **[Visualizations](https://github.com/jbrdge/Visualizations)** | Generative & artistic analysis | Lightweight repo structure | Processing.org sketches + Python data science for creative visuals |
 
 
+---
+
+### World Life Expectancy
+This project is a learning project from AnalystBuilder.com. We performed data cleaning on a set with SQL, did some exploratory data analysis, and I extended the project to include a Tableau dashboard.
 
 ---
 
@@ -108,8 +112,11 @@ https://github.com/jbrdge/MySQL-for-Data-Analytics, fork of https://github.com/A
 ---
 ### Courses completed
 
-
-
+#### Analystbuilder.com - MySQL for Data Analytics
+<p><img align="left" src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-MySQLForDataAnalyticsCertificate.png" width="65%"></p>  
+  
+#### Analystbuilder.com - Excel for Data Analytics
+<p><img align="left" src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-ExcelForDataAnalyticsCertificate.png" width="65%"></p>  
 ---
 
 
