@@ -38,9 +38,6 @@ I build projects that connect **data workflows, visualization, and cloud infrast
 | **[AWS Cost Analyzer](https://public.tableau.com/app/profile/jacob.breckenridge3515/viz/AWSCostDashboard-Sample1Month/AWSCostAnalysisAug2025)** | Cloud cost analysis (FinOps) | Python scripts with clean repo structure | Synthetic AWS cost dataset → Tableau dashboards |
 | **[Visualizations](https://github.com/jbrdge/Visualizations)** | Generative & artistic analysis | Lightweight repo structure | Processing.org sketches + Python data science for creative visuals |
 
-[Click here or image to watch the video](https://www.youtube.com/watch?v=9LqFKjaYLeE)  
-
-[![Watch the video](https://github.com/jbrdge/jbrdge/blob/main/hd.png)](https://www.youtube.com/watch?v=9LqFKjaYLeE)  
 
 ---
 
@@ -103,6 +100,9 @@ This repo highlights my work in **data and signal visualizations** using both Py
 It includes experiments like **K-Nearest Neighbor variations in Python** as well as a wide range of **generative animations in Processing** — from sinusoidal waves, knot curves, and polygon spirals to gravity simulations, graph algorithms, and artistic distortions.  
 
 The collection blends **data science, algorithmic thinking, and creative coding**, showcasing how technical models can be transformed into engaging visual experiences.
+[Click here or image to watch the video](https://www.youtube.com/watch?v=9LqFKjaYLeE)  
+
+[![Watch the video](https://github.com/jbrdge/jbrdge/blob/main/hd.png)](https://www.youtube.com/watch?v=9LqFKjaYLeE)  
 
 
 
