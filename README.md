@@ -38,6 +38,9 @@ I build projects that connect **data workflows, visualization, and cloud infrast
 | **[AWS Cost Analyzer](https://public.tableau.com/app/profile/jacob.breckenridge3515/viz/AWSCostDashboard-Sample1Month/AWSCostAnalysisAug2025)** | Cloud cost analysis (FinOps) | Python scripts with clean repo structure | Synthetic AWS cost dataset → Tableau dashboards |
 | **[Visualizations](https://github.com/jbrdge/Visualizations)** | Generative & artistic analysis | Lightweight repo structure | Processing.org sketches + Python data science for creative visuals |
 
+[Click here or image to watch the video](https://www.youtube.com/watch?v=9LqFKjaYLeE)  
+
+[![Watch the video](https://github.com/jbrdge/jbrdge/blob/main/hd.png)](https://www.youtube.com/watch?v=9LqFKjaYLeE)  
 
 ---
 
@@ -120,11 +123,6 @@ https://github.com/jbrdge/MySQL-for-Data-Analytics, fork of https://github.com/A
 <p><img src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-ExcelForDataAnalyticsCertificate.png" width="65%"></p>  
 ---
 
-
-
-[Click here or image to watch the video](https://www.youtube.com/watch?v=9LqFKjaYLeE)  
-
-[![Watch the video](https://github.com/jbrdge/jbrdge/blob/main/hd.png)](https://www.youtube.com/watch?v=9LqFKjaYLeE)  
 
 ---
 
