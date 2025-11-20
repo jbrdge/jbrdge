@@ -113,10 +113,11 @@ https://github.com/jbrdge/MySQL-for-Data-Analytics, fork of https://github.com/A
 ### Courses completed
 
 #### Analystbuilder.com - MySQL for Data Analytics
-<p><img align="left" src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-MySQLForDataAnalyticsCertificate.png" width="65%"></p>  
+<p><img src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-MySQLForDataAnalyticsCertificate.png" width="65%"></p>  
+
   
 #### Analystbuilder.com - Excel for Data Analytics  
-<p><img align="left" src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-ExcelForDataAnalyticsCertificate.png" width="65%"></p>  
+<p><img src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-ExcelForDataAnalyticsCertificate.png" width="65%"></p>  
 ---
 
 
