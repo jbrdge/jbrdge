@@ -115,15 +115,15 @@ https://github.com/jbrdge/MySQL-for-Data-Analytics, fork of https://github.com/A
 #### Analystbuilder.com - MySQL for Data Analytics
 <p><img align="left" src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-MySQLForDataAnalyticsCertificate.png" width="65%"></p>  
   
-#### Analystbuilder.com - Excel for Data Analytics
+#### Analystbuilder.com - Excel for Data Analytics  
 <p><img align="left" src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-ExcelForDataAnalyticsCertificate.png" width="65%"></p>  
 ---
 
 
 
-[Click here or image to watch the video](https://www.youtube.com/watch?v=9LqFKjaYLeE)
+[Click here or image to watch the video](https://www.youtube.com/watch?v=9LqFKjaYLeE)  
 
-[![Watch the video](https://github.com/jbrdge/jbrdge/blob/main/hd.png)](https://www.youtube.com/watch?v=9LqFKjaYLeE)
+[![Watch the video](https://github.com/jbrdge/jbrdge/blob/main/hd.png)](https://www.youtube.com/watch?v=9LqFKjaYLeE)  
 
 ---
 
