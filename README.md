@@ -123,7 +123,7 @@ https://github.com/jbrdge/MySQL-for-Data-Analytics, fork of https://github.com/A
 <p><img src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-ExcelForDataAnalyticsCertificate.png" width="65%"></p>  
 
 #### Analystbuilder.com - Tableau for Data Visualization 
-<p><img src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-TableauForDatavisualizationCertificate.png" width="65%"></p>  
+<p><img src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-TableauforDataVisualizationCertificate.png" width="65%"></p>  
 
 
 ---
