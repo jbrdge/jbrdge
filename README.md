@@ -32,7 +32,6 @@ I build projects that connect **data workflows, visualization, and cloud infrast
 
 | Project | Focus Area | Workflow Signals | Product Output |
 |---------|------------|------------------|----------------|
-
 |**[Jupyter Notebook Webscrapers](https://github.com/jbrdge/web-scraper)**| Python, Ipynb | README Walkthrough | Ipynb's and CSV files |
 |**[World Life Expectancy](https://github.com/jbrdge/World-Life-Expectancy-Data-Cleaning)**| SQL & Tableau Data Analysis | README Walkthrough | SQL and CSV files, Tableau Dashboard |
 | **[Customer Churn Prediction](https://github.com/jbrdge/churn-prediction)** | Full data pipeline & workflow | `.github/` templates, issues, milestones, branching history | SQL cleaning → Python modeling → Tableau dashboard |
