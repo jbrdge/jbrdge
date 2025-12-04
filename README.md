@@ -27,6 +27,12 @@ I build projects that connect **data workflows, visualization, and cloud infrast
 
 ---
 
+### Jupyter Notebook Webscrapers
+This project is a learning project from AnalystBuilder.com. We performed data cleaning on data scraped from the web using beautiful soup from Python. Then, we used Pandas to clean and parse the data into functional dataframes.
+
+
+---
+
 ### World Life Expectancy
 This project is a learning project from AnalystBuilder.com. We performed data cleaning on a set with SQL, did some exploratory data analysis, and I extended the project to include a Tableau dashboard.
 
