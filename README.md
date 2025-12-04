@@ -6,21 +6,6 @@ DevOps engineer & data enthusiast with a background in **mathematics, machine le
 
 I build projects that connect **data workflows, visualization, and cloud infrastructure**. Recently, I’ve focused on automation that makes systems easier to manage, more reliable, and harder to break.
 
----
-
-
-## Connect
-  
-### [Kaggle](https://www.kaggle.com/jbreckenridge) 
-### [CodePen](https://codepen.io/Jbrdge)
-### [Tableau Public](https://public.tableau.com/app/profile/jacob.breckenridge3515/vizzes)  
-### Check out some of my public p5.js scripts and animations:  
-- [Noisy Pie Chart](https://editor.p5js.org/jbrdge/sketches/IqnZYWGqY)
-### [LinkedIn](https://www.linkedin.com/in/jacobbreckenridge/) 
-
-
-
-
 
 ---
 
@@ -106,15 +91,24 @@ The collection blends **data science, algorithmic thinking, and creative coding*
 [![Watch the video](https://github.com/jbrdge/jbrdge/blob/main/hd.png)](https://www.youtube.com/watch?v=9LqFKjaYLeE)  
 
 
+---
+
+## Connect
+  
+### [Kaggle](https://www.kaggle.com/jbreckenridge) 
+### [CodePen](https://codepen.io/Jbrdge)
+### [Tableau Public](https://public.tableau.com/app/profile/jacob.breckenridge3515/vizzes)  
+### Check out some of my public p5.js scripts and animations:  
+- [Noisy Pie Chart](https://editor.p5js.org/jbrdge/sketches/IqnZYWGqY)
+### [LinkedIn](https://www.linkedin.com/in/jacobbreckenridge/) 
 
 ---
 ### Courses in progress
-#### From Analystbuilder.com
-https://github.com/jbrdge/MySQL-for-Data-Analytics, fork of https://github.com/AnalystBuilder/MySQL-for-Data-Analytics.
+#### Analystbuilder.com - Pandas for Data Analysis
 
 
 ---
-### Courses completed
+### Recent Courses completed:
 
 #### Analystbuilder.com - MySQL for Data Analytics
 <p><img src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-MySQLForDataAnalyticsCertificate.png" width="65%"></p>  
@@ -125,6 +119,9 @@ https://github.com/jbrdge/MySQL-for-Data-Analytics, fork of https://github.com/A
 
 #### Analystbuilder.com - Tableau for Data Visualization 
 <p><img src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-TableauforDataVisualizationCertificate.png" width="65%"></p>  
+
+#### Analystbuilder.com - Python Programming for Beginners
+<p><img src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-PythonProgrammingforBeginnersCertificate.png" width="65%"></p> 
 
 
 ---
