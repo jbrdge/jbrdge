@@ -109,6 +109,15 @@ The collection blends **data science, algorithmic thinking, and creative coding*
 ### [LinkedIn](https://www.linkedin.com/in/jacobbreckenridge/) 
 
 ---
+
+### Education
+
+- **BA in Comprehensive Mathematics** – University of Arizona
+
+- **MS in Electrical & Computer Engineering** – University of Arizona 
+
+
+---
 ### Courses in progress
 #### Analystbuilder.com - Pandas for Data Analysis
 
@@ -130,11 +139,4 @@ The collection blends **data science, algorithmic thinking, and creative coding*
 <p><img src="https://raw.githubusercontent.com/jbrdge/jbrdge/main/JacobBreckenridge-PythonProgrammingforBeginnersCertificate.png" width="65%"></p> 
 
 
----
-
-### Education
-
-- **BA in Comprehensive Mathematics** – University of Arizona
-
-- **MS in Electrical & Computer Engineering** – University of Arizona 
 
