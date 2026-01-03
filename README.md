@@ -17,6 +17,7 @@ I build projects that connect **data workflows, visualization, and cloud infrast
 
 | Project | Focus Area | Workflow Signals | Product Output |
 |---------|------------|------------------|----------------|
+|**[Jupyter Notebook Movie Genres Data Analysis](https://github.com/jbrdge/Movie-Genres-Data-Analysis)**| Python, Pandas, Seaborn, Matplotlib, Ipynb | Ipynb Walkthrough | Ipynb's and Exploratory Data Analysis |
 |**[Jupyter Notebook Webscrapers](https://github.com/jbrdge/web-scraper)**| Python, Ipynb | README Walkthrough | Ipynb's and CSV files |
 |**[World Life Expectancy](https://github.com/jbrdge/World-Life-Expectancy-Data-Cleaning)**| SQL & Tableau Data Analysis | README Walkthrough | SQL and CSV files, Tableau Dashboard |
 | **[Customer Churn Prediction](https://github.com/jbrdge/churn-prediction)** | Full data pipeline & workflow | `.github/` templates, issues, milestones, branching history | SQL cleaning → Python modeling → Tableau dashboard |
@@ -24,6 +25,10 @@ I build projects that connect **data workflows, visualization, and cloud infrast
 | **[AWS Cost Analyzer](https://public.tableau.com/app/profile/jacob.breckenridge3515/viz/AWSCostDashboard-Sample1Month/AWSCostAnalysisAug2025)** | Cloud cost analysis (FinOps) | Python scripts with clean repo structure | Synthetic AWS cost dataset → Tableau dashboards |
 | **[Visualizations](https://github.com/jbrdge/Visualizations)** | Generative & artistic analysis | Lightweight repo structure | Processing.org sketches + Python data science for creative visuals |
 
+---
+
+### Jupyter Notebook Movie Genres Data Analysis
+This project is a learning porject from AnalystBuilder.com for the "Pandas for Data Analysis" course. We took in yearly data on movies, created our own questions and hypotheses, then explored the data to demonstrate an understanding of the various analysis tools available to evaluate pandas DataFrames.
 
 ---
 
